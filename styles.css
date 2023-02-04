@@ -1,0 +1,40 @@
+/*Bootstrap*/
+
+
+.welcome{
+    text-align: center;
+}
+
+div {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #EEEEEE;
+}
+
+.button {
+    background-color: #3cc9e2;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.about {
+    border-radius: 12px;
+    background-color: #ac2bac;;
+}
+.videos {
+    border-radius: 12px;
+    background-color: #ed302f;
+}
+
